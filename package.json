@@ -1,0 +1,19 @@
+{
+  "name": "seven-segment-display",
+  "version": "1.0.0",
+  "description": "![https://media.giphy.com/media/l2SqiAlahUZxaYcAU/giphy.gif](https://media.giphy.com/media/l2SqiAlahUZxaYcAU/giphy.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamesensei/seven-segment-display.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamesensei/seven-segment-display/issues"
+  },
+  "homepage": "https://github.com/lamesensei/seven-segment-display#readme"
+}
